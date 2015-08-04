@@ -1,3 +1,3 @@
 MJC-ScriptProgrammingfortheWeb
 ==============================
-THese are files that i worked on in Modesto junior college.
+These are files that I worked on in Modesto junior college.
